@@ -1,0 +1,15 @@
+/home/arco/Repos/projects/tic-tac-toe/bin/Debug/net7.0/tic-tac-toe
+/home/arco/Repos/projects/tic-tac-toe/bin/Debug/net7.0/tic-tac-toe.deps.json
+/home/arco/Repos/projects/tic-tac-toe/bin/Debug/net7.0/tic-tac-toe.runtimeconfig.json
+/home/arco/Repos/projects/tic-tac-toe/bin/Debug/net7.0/tic-tac-toe.dll
+/home/arco/Repos/projects/tic-tac-toe/bin/Debug/net7.0/tic-tac-toe.pdb
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.csproj.AssemblyReference.cache
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.AssemblyInfoInputs.cache
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.AssemblyInfo.cs
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.csproj.CoreCompileInputs.cache
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.dll
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/refint/tic-tac-toe.dll
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.pdb
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/tic-tac-toe.genruntimeconfig.cache
+/home/arco/Repos/projects/tic-tac-toe/obj/Debug/net7.0/ref/tic-tac-toe.dll

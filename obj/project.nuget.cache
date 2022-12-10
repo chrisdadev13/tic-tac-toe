@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EbyuUJqDMEUEM7S4mTbvbtnPPvSaoXbYUu3isnvZJVHZlK5tck5CqZ1Y+tsPRbNuuMxq33tu9ih5/e7fveydoQ==",
+  "success": true,
+  "projectFilePath": "/home/arco/Repos/projects/tic-tac-toe/tic-tac-toe.csproj",
+  "expectedPackageFiles": [
+    "/home/arco/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
